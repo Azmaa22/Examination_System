@@ -1,18 +1,5 @@
 use ExamSystem
 
-alter proc Dept_Insert
-(  
-   @id int,  
-   @name VARCHAR(20),  
-   @desc VARCHAR(100)
-)  
-with encryption
-AS  
-BEGIN  
-insert into Department values( @id, @name, @desc)  
-END
-
-
 Dept_Insert 10,'SD','System Development'
 Dept_Insert 20,'EL','E-Learning'
 Dept_Insert 30,'MM','Multimedia'
@@ -20,20 +7,6 @@ Dept_Insert 40,'NC','Network'
 Dept_Insert 50,'EB','E-Business'
 
 ------------------------------------------------------------------
-
-alter proc Inst_Insert  
-(  
-   @id int,  
-   @name VARCHAR(20),
-   @salary money,
-   @deptid int,
-   @mgr int
-) 
-with encryption
-AS  
-BEGIN  
-insert into Instructor values( @id, @name, @salary,@deptid, @mgr)  
-END
 
 Inst_Insert 1,'Ramy',2000,10,2
 Inst_Insert 2,'Hany',2300,10,NULL
@@ -44,23 +17,6 @@ Inst_Insert 6,'Nevin',2200,10,2
 Inst_Insert 7,'Mohamed',1800,30,NULL
 
 ------------------------------------------------------------------
-
-alter proc Std_Insert  
-(  
-   @id int,  
-   @fname VARCHAR(20),
-   @lname VARCHAR(20),
-   @grade int,
-   @addr varchar(50),
-   @age int,
-   @deptid int
-) 
-with encryption
-AS  
-BEGIN  
-insert into Student values( @id, @fname, @lname, @grade, @addr, @age, @deptid)  
-END
-
 
 Std_Insert 1,'Hana','Mahmoud',NULL,'Cairo',22,10
 Std_Insert 2,'Dina','Medhat',NULL,'Giza',23,20
@@ -76,17 +32,6 @@ Std_Insert 11,'Mohamed',NULL,NULL,'Giza',24,40
 Std_Insert 12,NULL,'Mahmoud',NULL,'Giza',25,30
 
 ------------------------------------------------------------------
-
-alter proc Std_Inst_Insert  
-(  
-   @sid int,  
-   @iid int
-) 
-with encryption
-AS  
-BEGIN  
-insert into Std_Ins values(@sid,@iid)  
-END
 
 Std_Inst_Insert 1,1
 Std_Inst_Insert 1,2
@@ -117,18 +62,6 @@ Std_Inst_Insert 12,7
 
 ------------------------------------------------------------------
 
-create proc Crs_Insert  
-(  
-   @id int,  
-   @name varchar(20),
-   @duration int
-) 
-with encryption
-AS    
-BEGIN
-insert into Courses values(@id,@name,@duration)  
-END
-
  Crs_Insert 101,'Javascript',30 
  Crs_Insert 202,'C#',30 
  Crs_Insert 303,'HTML',25 
@@ -143,20 +76,6 @@ END
  Crs_Insert 660,'E-Commerce',10
 
 ------------------------------------------------------------------
-
-create proc Top_Insert  
-(  
-   @id int,  
-   @name varchar(20),
-   @cid int
-) 
-with encryption
-AS    
-BEGIN
-insert into Topics values(@id,@name,@cid)  
-END
-
-
 Top_Insert 10,'Event',101    
 Top_Insert 30,'Ajax/Json',101    
 Top_Insert 40,'DOM',101    
@@ -188,17 +107,6 @@ Top_Insert 20,'B2B E-Commerce',660
 
 ------------------------------------------------------------------
 
-create proc Inst_Crs_Insert  
-(  
-   @iid int,  
-   @cid int
-) 
-with encryption
-AS    
-BEGIN
-insert into Inst_Crs values(@iid,@cid)  
-END
-
 Inst_Crs_Insert 1,404   
 Inst_Crs_Insert 1,660   
 Inst_Crs_Insert 1,220 
@@ -216,18 +124,6 @@ Inst_Crs_Insert 6,110
 Inst_Crs_Insert 7,606
 
 ------------------------------------------------------------------
-
-create proc Std_Crs_Insert  
-(  
-   @sid int,  
-   @cid int
-) 
-with encryption
-AS    
-BEGIN
-insert into Student_Crs values(@sid,@cid)  
-END
-
 
 Std_Crs_Insert 1,101,NULL  
 Std_Crs_Insert 1,660,NULL  
@@ -272,11 +168,6 @@ Std_Crs_Insert 12,550,NULL
 
 -----------------------------------------------------------------------------------------
 
-create proc insertDataExam @id int, @duration int, @start_Time datetime, @courseId int
-with encryption
-as
-	insert into Exam values(@id, @duration, @start_Time, @courseId)
-
 -------------Database Exam-------------
 insertDataExam 1, 2, '12:30:00', 101 
 insertDataExam 2, 2, '12:30:00', 101 
@@ -292,11 +183,6 @@ insertDataExam 9, 2, '12:30:00', 202
 insertDataExam 10, 2, '12:30:00', 202
 
 ------------------------------------------------------------------------------------------------------
-
-create proc insertDataQuestion @id int, @grade int, @answer varchar(10), @type varchar(10), @descrbtion varchar(50)
-with encryption
-as
-	insert into Questions values(@id, @grade, @answer, @type, @descrbtion)
 
 ---------------------SQLSERVER MCQ Question----------------------------
 insertDataQuestion 1, 5, '1988', 'mcq', 'When was the first version of Microsoft SQL Server released?'

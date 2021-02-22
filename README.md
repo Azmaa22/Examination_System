@@ -2,7 +2,10 @@
 Online Exam System that it allow instructor to generate exam and Student to answer it
 
 # ERD and Mapping Website 
-https://app.diagrams.net/#G1b6LuszbUH89lJNm-BbhjhUac0Ylpucao
+[Link](https://app.diagrams.net/#G1b6LuszbUH89lJNm-BbhjhUac0Ylpucao)
+
+# Database Dictionary
+[Tool_Link](https://www.sqldatadictionary.com/)
 
 # C_Sharp and SQLServer Questions
 -SQL MCQ
