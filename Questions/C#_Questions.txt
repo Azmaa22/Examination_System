@@ -1,0 +1,112 @@
+1. The Method use to remove white space from a string?
+a) Split()
+b) Substring()
+c) Trim()
+d) TrimStart()
+View Answer
+
+Answer: c
+
+2. Among the given collections which one is I/O index based?
+a) ArrayList
+b) List
+c) Stack
+d) Queue
+View Answer
+
+Answer: a
+3. In which of the following collections is the I/O based on a key?
+a) BitArray
+b) SortedList
+c) Queue
+d) Stack
+View Answer
+
+Answer: b
+4.Which of these is used to access members of class before the object of that class is created?
+a) public
+b) private
+c) static
+d) protected
+View Answer
+
+Answer: c
+5. How many Bytes are stored by ‘Long’ Data type in C# .net?
+a) 8
+b) 4
+c) 2
+d) 1
+View Answer
+
+Answer: a
+6. Default Type of number without decimal is?
+a) Long Int
+b) Unsigned Long
+c) Int
+d) Unsigned Int
+View Answer
+
+Answer: c
+7. The correct way of incrementing the operators are:
+a) ++ a ++
+b) b ++ 1
+c) c += 1
+d) d =+ 1
+View Answer
+
+Answer: c
+8. Which of the following is/are not Relational operators in C#.NET?
+a) >=
+b) <>=
+c) Not
+d) <=
+View Answer
+
+Answer: b
+9. What is the process by which we can control parts of a program that can access the members of a class?
+a) Polymorphism
+b) Abstraction
+c) Encapsulation
+d) Recursion
+View Answer
+
+Answer: c
+10. Which of these operators can be used to concatenate two or more String objects?
+a) +
+b) +=
+c) &
+d) ||
+View Answer
+
+Answer: a
+----------------------------------True And False------------------------------
+1. A function can return more than one value.
+a. True b. False 
+b
+2.If a function returns no value, the return type must be declared as void.
+a. True b. False 
+a
+3.A local variable declared in a function is not usable out side that function.
+a. True   b. False 
+a
+4.Arithmetic operators are called binary operators when you use two arguments with each operator.
+
+CORRECT: This is true.
+5.The data components of a class often are called its iteration.
+
+This is false.
+6.The public modifier allows unlimited access to a method.
+
+This is true
+7.You declare a Boolean variable by using type integer.
+
+This is false
+8.A parent class is a synonym for base class.
+
+This is true
+9.The new operator is used to create objects.
+
+This is true
+10.The conditional AND operator is written as &&
+
+This is true

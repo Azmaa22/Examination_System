@@ -1,0 +1,138 @@
+1. When was the first version of Microsoft SQL Server released?
+a) 1983
+b) 1988
+c) 1990
+d) 1991
+View Answer
+Answer: b
+
+2. _________ is free database software running free SQL Server technology.
+a) SQL Server Express
+b) SQL Server Workgroup
+c) SQL Server Enterprise
+d) SQL Server Web
+View Answer
+
+Answer: a
+
+3. Which of the following is not a database object?
+a) Database Diagrams
+b) Stored Procedures
+c) PowerShell
+d) Index
+Answer C
+4. ______________ is schematic drawing used for representing relationships in database.
+a) Trigger
+b) Database Diagrams
+c) Table designer
+d) Query Editor
+View Answer
+
+Answer: b
+5. The _________ database is used by SQL Server Agent for scheduling alerts and jobs, and recording operators.
+a) model
+b) msdb
+c) master
+d) temp
+View Answer
+Answer: b
+
+6. Which of the following is a large object data type?
+a) varchar(max)
+b) varbinary(max)
+c) nvarchar(max)
+d) image
+View Answer
+
+Answer: d
+
+7. Data types in SQL Server are organized into how many categories?
+a) 6
+b) 8
+c) 9
+d) 10
+View Answer
+
+Answer: a
+8. ______________ function returns current date and time.
+a) SET DATEFIRST
+b) SYSDATETIME
+c) Cert_ID
+d) GETDATE
+View Answer
+
+Answer: d
+9. Which SQL keyword is used to retrieve a maximum value?
+a) MOST
+b) TOP
+c) MAX
+d) UPPER
+
+Answer c
+10. Which of the following is not a DDL command?
+a) UPDATE
+b) TRUNCATE
+c) ALTER
+d) None of the Mentioned
+View Answer
+
+Answer: a
+------------------------------------True And Fales Questions---------------------------------------------
+1. 	
+The condition in a WHERE clause can refer to only one value.
+
+A.	True
+B.	False
+Answer: Option B
+
+2. 	
+The ADD command is used to enter one row of data or to add multiple rows as a result of a query.
+
+A.	True
+B.	False
+Answer: Option B
+3. 	
+A SELECT statement within another SELECT statement and enclosed in square brackets ([...]) is called a subquery.
+
+A.	True
+B.	False
+Answer: Option B
+4. 	
+SQL is a programming language.
+
+A.	True
+B.	False
+Answer: Option B
+5. 	
+SELECT DISTINCT is used if a user wishes to see duplicate columns in a query.
+
+A.	True
+B.	False
+Answer: Option B
+6. 	
+Indexes can usually be created for both primary and secondary keys.
+
+A.	True
+B.	False
+Answer: Option A
+7.The HAVING clause acts like a WHERE clause, but it identifies groups that meet a criterion, rather than rows.
+
+A.	True
+B.	False
+Answer: Option A
+8. SQL is a data sublanguage.
+
+A.	True
+B.	False
+Answer: Option A
+9. 	
+ORDER BY can be combined with the SELECT statements.
+
+A.	True
+B.	False
+Answer: Option A
+10. Data manipulation language (DML) commands are used to define a database, including creating, altering, and dropping tables and establishing constraints.
+
+A.	True
+B.	False
+Answer: Option B
