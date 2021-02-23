@@ -118,5 +118,14 @@ create proc insertDataQuestion @id int, @grade int, @answer varchar(10), @type v
 with encryption
 as
 	insert into Questions values(@id, @grade, @answer, @type, @descrbtion)
-
+-------------------------------------------------------------------------------
+--Proc 11
+create proc insertChoices 
+(
+@choice varchar(50),
+@id int
+)
+with encryption
+as
+insert into Q_Choices values(@choice,@id)
 

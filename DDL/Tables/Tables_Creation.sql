@@ -82,9 +82,9 @@ Foreign key(Crs_Id) references Courses(Crs_Id)
 create table Questions(
 Q_Id int primary key,
 Q_Grade int,
-Q_Ans varchar(10),
+Q_Ans varchar(50),
 Q_Type varchar(10),
-Q_Desc varchar(50)
+Q_Desc varchar(200)
 )
 ------------------------------------------------------------------
 create table Q_Choices(
@@ -95,11 +95,11 @@ Foreign key(Q_Id) references Questions(Q_Id)
 )
 ------------------------------------------------------------------
 create table St_Answer(
-St_Ans varchar(10),
+St_Ans varchar(50),
 Q_Id int,
 St_Id int,
 Exam_Id int,
-Primary key(St_Ans,Q_Id,St_Id),
+Primary key(Q_Id,Exam_Id),
 Foreign key(Q_Id) references Questions(Q_Id),
 Foreign key(St_Id) references Student(St_Id),
 Foreign key(Exam_Id) references Exam(Exam_Id)

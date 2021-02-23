@@ -269,3 +269,244 @@ insertDataQuestion 40, 3, 'True', 't/f', 'The conditional AND operator is writte
 
 select * from Questions
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------SQLSERVER CHOICES----------------------------
+insertChoices '1983',1
+go
+insertChoices '1988',1
+go
+insertChoices '1990',1
+go
+insertChoices '1991',1
+go
+insertChoices 'SQL Server Express',2
+go
+insertChoices 'SQL Server Workgroup',2
+go
+insertChoices 'SQL Server Enterprise',2
+go
+insertChoices 'SQL Server Web',2
+go
+insertChoices 'Database Diagrams',3
+go
+insertChoices 'Stored Procedures',3
+go
+insertChoices 'PowerShell',3
+go
+insertChoices 'Index',3
+go
+insertChoices 'Trigger',4
+go
+insertChoices 'Database Diagrams',4
+go
+insertChoices 'Table designer',4
+go
+insertChoices 'Query Editor',4
+go
+insertChoices 'model',5
+go
+insertChoices 'msdb',5
+go
+insertChoices 'master',5
+go
+insertChoices 'temp',5
+go
+insertChoices 'varchar(max)',6
+go
+insertChoices 'varbinary(max)',6
+go
+insertChoices 'nvarchar(max)',6
+go
+insertChoices 'image',6
+go
+insertChoices '6',7
+go
+insertChoices '8',7
+go
+insertChoices '9',7
+go
+insertChoices '10',7
+go
+insertChoices 'SET DATEFIRST',8
+go
+insertChoices 'SYSDATETIME',8
+go
+insertChoices 'Cert_ID',8
+go
+insertChoices 'GETDATE',8
+go
+insertChoices 'MOST',9
+go
+insertChoices 'TOP',9
+go
+insertChoices 'MAX',9
+go
+insertChoices 'UPPER',9
+go
+insertChoices 'UPDATE',10
+go
+insertChoices 'TRUNCATE',10
+go
+insertChoices 'ALTER',10
+go
+insertChoices 'NONE',10
+go
+insertChoices 'True',11
+go
+insertChoices 'False',11
+go
+insertChoices 'True',12
+go
+insertChoices 'False',12
+go
+insertChoices 'True',13
+go
+insertChoices 'False',13
+go
+insertChoices 'True',14
+go
+insertChoices 'False',14
+go
+insertChoices 'True',15
+go
+insertChoices 'False',15
+go
+insertChoices 'True',16
+go
+insertChoices 'False',16
+go
+insertChoices 'True',17
+go
+insertChoices 'False',17
+go
+insertChoices 'True',18
+go
+insertChoices 'False',18
+go
+insertChoices 'True',19
+go
+insertChoices 'False',19
+go
+insertChoices 'True',20
+go
+insertChoices 'False',20
+
+---------------------C# CHOICES----------------------------
+insertChoices 'Split()',21
+go
+insertChoices 'Substring()',21
+go
+insertChoices 'Trim()',21
+go
+insertChoices 'TrimStart()',21
+go
+insertChoices 'ArrayList',22
+go
+insertChoices 'List',22
+go
+insertChoices 'Stack',22
+go
+insertChoices 'Queue',22
+go
+insertChoices 'BitArray',23
+go
+insertChoices 'SortedList',23
+go
+insertChoices 'Queue',23
+go
+insertChoices 'Stack',23
+go
+insertChoices 'public',24
+go
+insertChoices 'private',24
+go
+insertChoices 'static',24
+go
+insertChoices 'protected',24
+go
+insertChoices '8',25
+go
+insertChoices '4',25
+go
+insertChoices '2',25
+go
+insertChoices '1',25
+go
+insertChoices 'Long Int',26
+go
+insertChoices 'Unsigned Long',26
+go
+insertChoices 'Int',26
+go
+insertChoices 'Unsigned Int',26
+go
+insertChoices '++ a ++',27
+go
+insertChoices 'b ++ 1',27
+go
+insertChoices 'c += 1',27
+go
+insertChoices 'd =+ 1',27
+go
+insertChoices '>=',28
+go
+insertChoices '<>=',28
+go
+insertChoices 'Not',28
+go
+insertChoices '<=',28
+go
+insertChoices 'Polymorphism',29
+go
+insertChoices 'Abstraction',29
+go
+insertChoices 'Encapsulation',29
+go
+insertChoices 'Recursion',29
+go
+insertChoices '+',30
+go
+insertChoices '+=',30
+go
+insertChoices '&',30
+go
+insertChoices '||',30
+go
+insertChoices 'True',31
+go
+insertChoices 'False',31
+go
+insertChoices 'True',32
+go
+insertChoices 'False',32
+go
+insertChoices 'True',33
+go
+insertChoices 'False',33
+go
+insertChoices 'True',34
+go
+insertChoices 'False',34
+go
+insertChoices 'True',35
+go
+insertChoices 'False',35
+go
+insertChoices 'True',36
+go
+insertChoices 'False',36
+go
+insertChoices 'True',37
+go
+insertChoices 'False',37
+go
+insertChoices 'True',38
+go
+insertChoices 'False',38
+go
+insertChoices 'True',39
+go
+insertChoices 'False',39
+go
+insertChoices 'True',40
+go
+insertChoices 'False',40

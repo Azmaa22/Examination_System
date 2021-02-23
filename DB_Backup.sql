@@ -1,7 +1,7 @@
 
 
 backup database ExamSystem
-to disk = 'D:\Online_Exam_System'
+to disk = 'D:\'
 
 /*
 backup database ExamSystem
