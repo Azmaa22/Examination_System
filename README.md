@@ -4,7 +4,7 @@ Online Exam System that it allow instructor to generate exam and Student to answ
 # ERD and Mapping Website 
 [Link](https://app.diagrams.net/#G1b6LuszbUH89lJNm-BbhjhUac0Ylpucao)
 
-#*Tools * :
+#Tools :
 
 ## Database Dictionary
 [Tool_Link](https://www.sqldatadictionary.com/)
