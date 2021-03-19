@@ -1,5 +1,5 @@
-# Online_Exam_System
-Online Exam System that it allow instructor to generate exam and Student to answer it
+# Examination_System
+Desktop Exam System that it allow instructor to generate exam and Student to answer it
 
 # ERD and Mapping Website 
 [Link](https://app.diagrams.net/#G1b6LuszbUH89lJNm-BbhjhUac0Ylpucao)
