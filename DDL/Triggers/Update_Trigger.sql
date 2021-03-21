@@ -1,12 +1,12 @@
 use ExamSystem
 
-alter trigger updateExamTrigger
+create trigger updateExamTrigger
 on Exam
 after update
 as
 	select 'Exam Updates were Done ^^'
 ------------------------------------------------
-alter trigger updateQuestionTrigger
+create trigger updateQuestionTrigger
 on Questions
 after update
 as
