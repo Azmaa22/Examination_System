@@ -1,0 +1,275 @@
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.exe
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.deps.json
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.json
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.dev.json
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmProductsGridView.resources
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CopyComplete
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.genruntimeconfig.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll.config
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmDetailedViewProducts.resources
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.exe
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll.config
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.deps.json
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.json
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.dev.json
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csprojAssemblyReference.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmDetailedViewProducts.resources
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmProductsGridView.resources
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.GenerateResource.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfoInputs.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfo.cs
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CoreCompileInputs.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CopyComplete
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.genruntimeconfig.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.exe
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll.config
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.deps.json
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.json
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.dev.json
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll.config
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csprojAssemblyReference.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmDetailedViewProducts.resources
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmProductsGridView.resources
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.GenerateResource.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfoInputs.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfo.cs
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CoreCompileInputs.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CopyComplete
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.genruntimeconfig.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.exe
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll.config
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.deps.json
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.json
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.dev.json
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll.config
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csprojAssemblyReference.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmDetailedViewProducts.resources
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmProductsGridView.resources
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.GenerateResource.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfoInputs.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfo.cs
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CoreCompileInputs.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CopyComplete
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.genruntimeconfig.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.gridfrm.resources
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.exe
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll.config
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.deps.json
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.json
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.runtimeconfig.dev.json
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\NorthWindUI.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\bin\Debug\netcoreapp3.1\DAL.dll.config
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csprojAssemblyReference.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.frmDetailedViewProducts.resources
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.GenerateResource.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfoInputs.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.AssemblyInfo.cs
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CoreCompileInputs.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.csproj.CopyComplete
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\NorthWindUI\obj\Debug\netcoreapp3.1\NorthWindUI.genruntimeconfig.cache

@@ -1,0 +1,78 @@
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+C:\Users\pc\Desktop\SD41-G02\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+C:\Users\Kiro Abadier\Desktop\$ITI\C#\Day14\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+D:\ITI\WF\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+E:\EF\day3\D14 - Tiers Task - Copy\D14 - Tiers\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\BizLL.deps.json
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\BizLL.dll
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\BizLL.pdb
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\DAL.dll
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\DAL.pdb
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\bin\Debug\netcoreapp3.1\DAL.dll.config
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.csprojAssemblyReference.cache
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfoInputs.cache
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.AssemblyInfo.cs
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CoreCompileInputs.cache
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.csproj.CopyComplete
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.dll
+F:\DB\Advanced SQL\Project\ExamSystem\BizLL\obj\Debug\netcoreapp3.1\BizLL.pdb
